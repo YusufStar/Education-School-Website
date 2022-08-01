@@ -1,2 +1,2 @@
 # Education-Website
-<button><a href="https://yusufstar.github.io/Education-Website/">Go To Web Site</a></button>
+<button><a href="https://yusufstar.github.io/Education-School-Website/">Go To Web Site</a></button>
